@@ -11,9 +11,9 @@ parts:
     chapters:
     - file: some_content/overview.md
     - file: file_to_be_added_to_toc.md
-    - file: new_file.md
       sections:
       - file: some_content/text_and_code.ipynb
+    - file: new_file.md
   - caption: Exercises
     chapters:
     - file: exercises.md
