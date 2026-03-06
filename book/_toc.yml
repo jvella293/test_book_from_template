@@ -47,8 +47,3 @@ parts:
     - file: references.md
     - file: changelog.md
     - file: credits.md
-  - caption: Contents
-    chapters:
-    - file: 001
-    - external: https://github.com/TeachBooks/HOS-workbook/blob/main/book/2024/EVA/overview.md
-    - file: 003
