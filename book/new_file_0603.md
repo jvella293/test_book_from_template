@@ -23,3 +23,14 @@ This is a flower. It represents love
 
 ```{video} https://www.youtube.com/watch?v=G7KNmW9a75Y
 ```
+
+
+$$ F_{res} = m \cdot a $$ 
+
+```{math}
+v = a \cdot t
+```
+
+The displacement can be found using the equation $s = v \cdot t$.
+
+$$ \class{hyphen-color}{\sum}_{n=1}^\infty $$
