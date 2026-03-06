@@ -14,6 +14,7 @@ parts:
       sections:
       - file: some_content/text_and_code.ipynb
     - file: new_file.md
+    - file: new_file_0603.md
     - external: https://gitlab.tudelft.nl/interactivetextbooks-citg/risk-and-reliability/-/blob/v0.1/book/prob-design/overview.md
   - caption: Exercises
     chapters:
