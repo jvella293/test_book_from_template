@@ -20,3 +20,6 @@ align: center
 ---
 This is a flower. It represents love
 ```
+
+```{video} https://www.youtube.com/watch?v=G7KNmW9a75Y
+```
