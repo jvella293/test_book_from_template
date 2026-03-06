@@ -34,3 +34,65 @@ v = a \cdot t
 The displacement can be found using the equation $s = v \cdot t$.
 
 $$ \class{hyphen-color}{\sum}_{n=1}^\infty $$
+
+```{note}
+This is a note. It always has the title "Note".
+```
+
+```{tip}
+This is a helpful tip!
+```
+
+```{warning}
+Be careful when editing this file.
+```
+
+```{attention}
+Important: Save your work frequently.
+```
+
+```{caution}
+Important: Save your work frequently.
+```
+
+```{important}
+Important: Save your work frequently.
+```
+
+```{seealso}
+Important: Save your work frequently.
+```
+
+```{error}
+Important: Save your work frequently.
+```
+
+```{hint}
+Important: Save your work frequently.
+```
+
+```{danger}
+Important: Save your work frequently.
+```
+
+```{admonition} Did you know?
+You can customise the title of this block using the `admonition` directive.
+```
+
+```{dropdown} See the steps
+1. Open your file.
+2. Write some content.
+3. Preview the changes.
+```
+
+```{admonition} Extra Info
+:class: dropdown
+
+This content will be hidden until the reader clicks to reveal it. 
+```
+
+```{admonition} Important: Check this out!
+:class: important dropdown
+
+This content is both highlighted as important and collapsible.
+```
