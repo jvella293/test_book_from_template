@@ -13,3 +13,10 @@ Steven is the first trainer I met at Volt. He is amazing
 ## My Evening
 After training I did not do much. I went to Jumbo to buy some dinner and then chilled at home. I wanted to sleep early so that I get enough sleep for a busy Saturday!
 
+```{figure} figures/flower.png
+---
+width: 60%
+align: center
+---
+This is a flower. It represents love
+```
